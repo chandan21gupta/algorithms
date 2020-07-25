@@ -22,5 +22,5 @@ int lcs_problem(int arr[], int n) {
 int main() {
     int arr[] = {50, 3, 10, 7, 40, 80};
     cout << lcs_problem(arr, 6) << endl;
-
+    return 0;
 }
